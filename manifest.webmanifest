@@ -1,0 +1,55 @@
+{
+  "name": "كيفية صلاة النبي ﷺ — صفة الصلاة والأذكار والسنن",
+  "short_name": "صفة الصلاة",
+  "description": "دليل مختصر في صفة صلاة النبي ﷺ: كيفية الصلاة، الأذكار، السنن، أركان الصلاة وواجباتها — من كلمات سماحة الشيخ عبد العزيز بن عبد الله بن باز رحمه الله.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1F5B4C",
+  "categories": ["education", "books", "lifestyle"],
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "كيفية الصلاة",
+      "short_name": "الصلاة",
+      "url": "./index.html#salah",
+      "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "الأذكار",
+      "short_name": "الأذكار",
+      "url": "./index.html#adhkar",
+      "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "أركان الصلاة",
+      "short_name": "الأركان",
+      "url": "./index.html#arkan",
+      "icons": [{ "src": "assets/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
